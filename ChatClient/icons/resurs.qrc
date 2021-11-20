@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>add.png</file>
+        <file>chat.png</file>
+        <file>login.png</file>
+        <file>chat (1).png</file>
+        <file>refresh.png</file>
+    </qresource>
+</RCC>
